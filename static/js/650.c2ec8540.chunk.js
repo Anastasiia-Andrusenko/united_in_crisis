@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkunited_in_crisis=self.webpackChunkunited_in_crisis||[]).push([[650],{650:function(n,i,e){e.r(i),e.d(i,{default:function(){return t}});var s={},c=e(184),t=function(){return(0,c.jsx)("div",{className:s.container,children:(0,c.jsx)("h2",{className:s.title,children:"Join Us"})})}}}]);
+//# sourceMappingURL=650.c2ec8540.chunk.js.map

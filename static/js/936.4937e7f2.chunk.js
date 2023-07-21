@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkunited_in_crisis=self.webpackChunkunited_in_crisis||[]).push([[936],{936:function(i,n,e){e.r(n),e.d(n,{default:function(){return r}});var s="Home_container__w+u63",t="Home_title__L087v",c=e(184),r=function(){return(0,c.jsx)("div",{className:s,children:(0,c.jsx)("h1",{className:t,children:"United in Crisis"})})}}}]);
+//# sourceMappingURL=936.4937e7f2.chunk.js.map

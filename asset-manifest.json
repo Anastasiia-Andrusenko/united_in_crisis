@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/united_in_crisis/static/css/main.7acaea2f.css",
-    "main.js": "/united_in_crisis/static/js/main.07d3183d.js",
+    "main.css": "/united_in_crisis/static/css/main.c22bf3a7.css",
+    "main.js": "/united_in_crisis/static/js/main.449d7221.js",
+    "static/css/936.929591fa.chunk.css": "/united_in_crisis/static/css/936.929591fa.chunk.css",
+    "static/js/936.4937e7f2.chunk.js": "/united_in_crisis/static/js/936.4937e7f2.chunk.js",
+    "static/css/708.31d6cfe0.chunk.css": "/united_in_crisis/static/css/708.31d6cfe0.chunk.css",
+    "static/js/708.afe5a3a5.chunk.js": "/united_in_crisis/static/js/708.afe5a3a5.chunk.js",
+    "static/css/650.31d6cfe0.chunk.css": "/united_in_crisis/static/css/650.31d6cfe0.chunk.css",
+    "static/js/650.c2ec8540.chunk.js": "/united_in_crisis/static/js/650.c2ec8540.chunk.js",
+    "static/css/606.31d6cfe0.chunk.css": "/united_in_crisis/static/css/606.31d6cfe0.chunk.css",
+    "static/js/606.cbe1504f.chunk.js": "/united_in_crisis/static/js/606.cbe1504f.chunk.js",
     "index.html": "/united_in_crisis/index.html",
-    "main.7acaea2f.css.map": "/united_in_crisis/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/united_in_crisis/static/js/main.07d3183d.js.map"
+    "main.c22bf3a7.css.map": "/united_in_crisis/static/css/main.c22bf3a7.css.map",
+    "main.449d7221.js.map": "/united_in_crisis/static/js/main.449d7221.js.map",
+    "936.929591fa.chunk.css.map": "/united_in_crisis/static/css/936.929591fa.chunk.css.map",
+    "936.4937e7f2.chunk.js.map": "/united_in_crisis/static/js/936.4937e7f2.chunk.js.map",
+    "708.afe5a3a5.chunk.js.map": "/united_in_crisis/static/js/708.afe5a3a5.chunk.js.map",
+    "650.c2ec8540.chunk.js.map": "/united_in_crisis/static/js/650.c2ec8540.chunk.js.map",
+    "606.cbe1504f.chunk.js.map": "/united_in_crisis/static/js/606.cbe1504f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c22bf3a7.css",
+    "static/js/main.449d7221.js"
   ]
 }
