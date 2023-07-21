@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/united_in_crisis/static/css/main.7acaea2f.css",
+    "main.js": "/united_in_crisis/static/js/main.07d3183d.js",
+    "index.html": "/united_in_crisis/index.html",
+    "main.7acaea2f.css.map": "/united_in_crisis/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/united_in_crisis/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
