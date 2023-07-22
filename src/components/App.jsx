@@ -6,6 +6,7 @@ import { Suspense } from 'react';
 // import { refreshUser } from 'redux/auth/operations';
 
 import AppNav from '../components/AppNav/AppNav';
+// import Footer from '../components/Footer/Footer';
 const HomePage = lazy(() => import('../pages/Home/Home.jsx'));
 const ContactsPage = lazy(() => import('../pages/Contacts/Contacts.jsx'));
 const JoinUsPage = lazy(() => import('../pages/JoinUs/JoinUs.jsx'));
@@ -23,6 +24,7 @@ export const App = () => {
           <Route path="/about_us" element={<AboutUsPage />} />
         </Routes>
       </Suspense>
+      {/* <Footer /> */}
     </div>
   );
 };

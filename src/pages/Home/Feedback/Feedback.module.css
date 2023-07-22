@@ -1,0 +1,35 @@
+.container {
+  width: 650px;
+  margin: 0 auto;
+  
+  padding-top: 100px;
+  margin-bottom: 40px;
+}
+
+.each_slide {
+  height: 160px;
+  margin-bottom: 0px;
+}
+
+.feedback {
+  padding: 20px 40px;
+  width: 80%;
+  margin: 0 auto;
+  /* border: 1px solid rgb(35, 15, 180); */
+  border-radius: 20px;
+
+  -webkit-box-shadow: inset 0px 0px 30px -12px rgb(63, 79, 130);
+  -moz-box-shadow: inset 0px 0px 30px -12px rgb(63, 79, 130);
+  box-shadow: inset 0px 0px 30px -12px rgb(63, 79, 130);
+}
+
+.name {
+  margin-top: 20px;
+  text-align: end;
+  font-weight: 100;
+}
+
+.text {
+  margin-top: 20px;
+  font-size: 20px;
+}

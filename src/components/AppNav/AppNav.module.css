@@ -1,6 +1,12 @@
 .header {
-  outline: 1px solid red;
-  padding: 15px;
+  /* outline: 1px solid red; */
+  padding: 10px 15px;
+  background-color: rgb(35, 15, 180);
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 1000;
 }
 
 .container {
@@ -19,17 +25,42 @@
 }
 
 .link {
-  font-size: 18px;
-  color: rgba(0, 0, 0, 0.5);
-  font-weight: 700;
-  padding: 4px 8px;
+  font-size: 20px;
+  color: antiquewhite;
+  font-weight: 500;
+  padding: 8px 12px;
   transition: all 250ms linear;
+  border: 1px solid rgba(250, 235, 215, 0);
 }
 
 .link:hover {
-  color: rgb(0, 0, 0);
+  border: 1px solid rgba(250, 235, 215);
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 6px 100px 0px rgba(252, 252, 252, 0.5);
+  -moz-box-shadow: 0px 6px 100px 0px rgba(252, 252, 252, 0.5);
+  box-shadow: 0px 6px 100px 0px rgba(252, 252, 252, 0.5);
 }
 
 .current {
-  color: rgb(68, 0, 255);
+  font-weight: 900;
+  border-bottom: 1px solid rgba(250, 235, 215);
+}
+
+.logo_container {
+  display: flex;
+  align-items: center;
+  color: antiquewhite;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+}
+
+.logo_text {
+  margin: 0;
+  margin-left: 10px;
+  font-size: 28px;
+  font-family: 'Unna', serif;
+  line-height: 2rem;
 }

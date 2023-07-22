@@ -1,0 +1,29 @@
+.container {
+  /* outline: 1px solid tomato; */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px 0 180px 0;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Unna', serif;
+
+  margin: 0;
+  margin-top: 100px;
+  font-size: 120px;
+  line-height: 2.3rem;
+  color: antiquewhite;
+}
+
+.slogan {
+  font-weight: 100;
+  margin-top: 40px;
+  font-size: 30px;
+  color: antiquewhite;
+}
+
+.logo {
+  margin-top: 60px;
+  width: 400px;
+}

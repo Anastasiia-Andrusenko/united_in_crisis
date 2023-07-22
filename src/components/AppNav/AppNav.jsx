@@ -1,6 +1,8 @@
 import { NavLink } from 'react-router-dom';
 import css from './AppNav.module.css';
 
+import LogoWhite from '../../img/logo/logo-wh.svg';
+
 const AppNav = () => {
   const getClassName = ({ isActive }) => {
     return isActive ? `${css.link} ${css.current}` : css.link;
@@ -10,7 +12,10 @@ const AppNav = () => {
     <header className={css.header}>
       <div className={css.container}>
         <NavLink className={css.logo} to="/">
-          Logo
+          <div className={css.logo_container}>
+            <img src={LogoWhite} alt="logo" className={css.icon} />
+            <p className={css.logo_text}>United in crisis</p>
+          </div>
         </NavLink>
         <nav className={css.nav}>
           <NavLink className={getClassName} to="/about_us">
