@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkunited_in_crisis=self.webpackChunkunited_in_crisis||[]).push([[708],{708:function(n,i,e){e.r(i),e.d(i,{default:function(){return c}});var s={},t=e(184),c=function(){return(0,t.jsx)("div",{className:s.container,children:(0,t.jsx)("h2",{className:s.title,children:"Contacts"})})}}}]);
-//# sourceMappingURL=708.afe5a3a5.chunk.js.map
