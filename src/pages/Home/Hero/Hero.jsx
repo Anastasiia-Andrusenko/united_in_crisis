@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className={css.container}>
       <h1 className={css.title}>United in Crisis</h1>
-      <p className={css.slogan}>Some very tearful logo.</p>
+      <p className={css.slogan}>Some very tearful slogan.</p>
       <div>
         <img src={Logo} alt="logo" className={css.logo} />
       </div>
