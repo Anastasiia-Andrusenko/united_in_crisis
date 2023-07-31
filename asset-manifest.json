@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/united_in_crisis/static/css/main.111c5deb.css",
-    "main.js": "/united_in_crisis/static/js/main.9c9c17f7.js",
+    "main.js": "/united_in_crisis/static/js/main.151d40a5.js",
     "static/css/395.efd996ec.chunk.css": "/united_in_crisis/static/css/395.efd996ec.chunk.css",
-    "static/js/395.a84c2584.chunk.js": "/united_in_crisis/static/js/395.a84c2584.chunk.js",
+    "static/js/395.4ac37d31.chunk.js": "/united_in_crisis/static/js/395.4ac37d31.chunk.js",
     "static/css/86.87780aab.chunk.css": "/united_in_crisis/static/css/86.87780aab.chunk.css",
     "static/js/86.5ba44729.chunk.js": "/united_in_crisis/static/js/86.5ba44729.chunk.js",
     "static/css/650.c25ccd21.chunk.css": "/united_in_crisis/static/css/650.c25ccd21.chunk.css",
@@ -29,9 +29,9 @@
     "static/media/logo-wh.svg": "/united_in_crisis/static/media/logo-wh.428a34d7a8d7e0232a3e7c61041334cc.svg",
     "index.html": "/united_in_crisis/index.html",
     "main.111c5deb.css.map": "/united_in_crisis/static/css/main.111c5deb.css.map",
-    "main.9c9c17f7.js.map": "/united_in_crisis/static/js/main.9c9c17f7.js.map",
+    "main.151d40a5.js.map": "/united_in_crisis/static/js/main.151d40a5.js.map",
     "395.efd996ec.chunk.css.map": "/united_in_crisis/static/css/395.efd996ec.chunk.css.map",
-    "395.a84c2584.chunk.js.map": "/united_in_crisis/static/js/395.a84c2584.chunk.js.map",
+    "395.4ac37d31.chunk.js.map": "/united_in_crisis/static/js/395.4ac37d31.chunk.js.map",
     "86.87780aab.chunk.css.map": "/united_in_crisis/static/css/86.87780aab.chunk.css.map",
     "86.5ba44729.chunk.js.map": "/united_in_crisis/static/js/86.5ba44729.chunk.js.map",
     "650.c25ccd21.chunk.css.map": "/united_in_crisis/static/css/650.c25ccd21.chunk.css.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.111c5deb.css",
-    "static/js/main.9c9c17f7.js"
+    "static/js/main.151d40a5.js"
   ]
 }
